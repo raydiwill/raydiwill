@@ -1,39 +1,22 @@
-﻿Bonjour :) Hello mate!
+﻿Bonjour :sunglasses:
 =====
 
-I'm Khanh Duong Tran! *(but do call me Raydi)* - a Vietnamese freelancer looking for jobs in Data Analysis/Science field living in Paris, France. I love to learn something new, enjoy reading books, explore nature beauty through traveling and so much more. My goal is to be able to travel around the world someday in the future. Feel free to contact me, I will try to response as fast as possible. Have a wonderful day! :smiley:
+![](git-pic.jpg)
 
-## Skills
+#### I'm a Data Scientist/Machine Learning Engineer by day ☀️ and a photographer by night and weekend 📸
 
- * Experienced team leader.
- * Analytical thinker.
- * Experienced in documenting and reporting (Microsoft Office Specialist).
- * Having fundamental knowledge in many fields.
-
-## Technology I work with
-
- * **Programming:**
-    * Python, Java, C/C++.
-    * HTML, PHP, CSS, Javascript.
- * **Documenting:**
-    * Latex.
-    * Markdown.
-    * Word/Google Docs. 
- * **Data Analysis:**
-    * Spreadsheet with Excel, Google sheets.
-    * Databases extraction with SQL.
-    * Data manipulation with R, Python.
-    * Data visualization with R, Tableau, Microsoft PowerBI. 
- * **Data Science:**
-    * Knowledgeable in machine learning algorithms such as regression, classification, clustering.
-    * Experience in implementing machine learning models using libraries like Scikit-Learn.
-    * Familiarity with techniques like feature engineering, model evaluation, and hyperparameter tuning.
- * **Data Engineering:**
-    * *(More to come later)*
+- 👋 Hey there, I'm Khanh Duong *(but do call me Raydi)* :wink:.
+- :computer: I'm interested in IT and Data Science.
+- :mortar_board: I'm currently pursuing my M.S.c in Computer Science *(specialized in Data Science)*.
+- :pencil: I'm on track to learn more about Artificial Intelligent, Natural Language Processing, MLOps.
+- :books: In my free time, I like to learn new things, like Photography.
+- :page_facing_up: Have a look at my [Resume](https://raydiwill.github.io/resume/resume.pdf) for more details about me, you can also check out my portfolio website down below.
+- :speech_balloon: Feel free to contact me for future collaboration.
+- :gift: And **most importantly**, Have a great day!
 
 ## Get in touch
 
- * Portfolio website: [https://raydiwill.github.io](https://raydiwill.github.io)
- * Linkedin: [https://www.linkedin.com/in/duong-khanh-tran-0275a8205/](https://www.linkedin.com/in/kduongtran/)
- * Facebook: [https://www.facebook.com/MrRaydi/](https://www.facebook.com/MrRaydi/)
- * Email: duong.tranhn1102@gmail.com
+ * View my [Portfolio website](https://raydiwill.github.io).
+ * Expand our networking via [Linkedin](https://www.linkedin.com/in/kduongtran/).
+ * Check out my social life: [Instagram](https://www.facebook.com/MrRaydi/).
+ * Send me an email at: duong.tranhn1102@gmail.com
