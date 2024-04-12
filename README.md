@@ -18,5 +18,5 @@
 
  * View my [Portfolio website](https://raydiwill.github.io).
  * Expand our networking via [Linkedin](https://www.linkedin.com/in/kduongtran/).
- * Check out my social life: [Instagram](https://www.facebook.com/MrRaydi/).
+ * Check out my social life: [Instagram](https://www.instagram.com/mrraydi/).
  * Send me an email at: duong.tranhn1102@gmail.com
